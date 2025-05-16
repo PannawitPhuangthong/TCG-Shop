@@ -1,2 +1,2 @@
 # TCG-Shop
-ออกแบบระบบร้านขายการ์ด
+Card Shop System Design
